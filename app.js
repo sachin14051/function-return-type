@@ -8,3 +8,4 @@ var Person = /** @class */ (function () {
     }
     return Person;
 }());
+var admin = new Person;
